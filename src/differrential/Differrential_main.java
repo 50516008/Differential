@@ -3,7 +3,7 @@ package differrential;
 import java.util.Scanner;
 
 public class Differrential_main {
-
+//h=5^10^-12‚ÌA‘Š‘ÎŒë·‚ªÅ¬‚Å‚ ‚éB//
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		Scanner scan=new Scanner(System.in);
